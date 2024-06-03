@@ -2,19 +2,19 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
 <externallink>https://pastebin.com/raw/Wp6bZTaF</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES ELEMENTUM[/COLOR][/B]</name>
-<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/pB9jfiq.png</thumbnail>
 <externallink>https://pastebin.com/raw/VFcESdpS</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]YOUTUBE[/COLOR][/B]</name>
 <thumbnail>https://goo.gl/NHRvpX</thumbnail>
 <externallink>https://pastebin.com/raw/qATfhjie</externallink>
 </channel>
